@@ -38,6 +38,7 @@
         <jump.version>1.2</jump.version>
         <json-simple-version>1.1.1</json-simple-version>
         <sde-version>9.1</sde-version>
+        <maven-compiler-version>3.8.1</maven-compiler-version>
 
         <!-- maven compiler target versions -->
         <maven.compiler.source>1.8</maven.compiler.source>
